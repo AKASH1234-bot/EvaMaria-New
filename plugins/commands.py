@@ -24,8 +24,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('Movie Search Group', url= 'https://t.me/+40mgi-EjhQdmNTk1'),
-            InlineKeyboardButton('Movie Updates', url='https://t.me/+zW-bcv3QtgZjZTE9')
+            InlineKeyboardButton('Movie Search Group', url= 'https://t.me/linkcinema1'),
+            InlineKeyboardButton('Movie Updates', url='https://t.me/ccl_links')
         ], 
         ]
             
@@ -55,9 +55,9 @@ async def start(client, message):
 
         ], [
 
-            InlineKeyboardButton('Movie Search Group', url= 'https://t.me/+40mgi-EjhQdmNTk1'),
+            InlineKeyboardButton('Movie Search Group', url= 'https://t.me/linkcinema1'),
 
-            InlineKeyboardButton('Movie Updates', url='https://t.me/+zW-bcv3QtgZjZTE9')
+            InlineKeyboardButton('Movie Updates', url='https://t.me/ccl_links')
 
         ], 
 
